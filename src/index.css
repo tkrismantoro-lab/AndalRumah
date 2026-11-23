@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light; }
+html { scroll-behavior: smooth; scroll-padding-top: 88px; }
+body { margin: 0; background: #ffffff; color: #111827; font-family: "Plus Jakarta Sans", Inter, system-ui, sans-serif; }
+
+@layer components {
+  /* Kolom isi dengan jarak tepi yang aman di HP */
+  .container-x {
+    max-width: 1120px;
+    margin-inline: auto;
+    padding-left: max(16px, env(safe-area-inset-left, 0px));
+    padding-right: max(16px, env(safe-area-inset-right, 0px));
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-btn px-5 py-3 text-[15px] font-bold transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-navy;
+  }
+  .btn-primary { @apply btn bg-brand text-white hover:bg-brand-dark; }
+  .btn-outline { @apply btn border border-line bg-white text-navy hover:bg-soft; }
+  .card { @apply rounded-card border border-line bg-white shadow-soft; }
+  .input {
+    @apply w-full rounded-btn border border-line bg-white px-4 py-3 text-base text-navy placeholder:text-slate-400 focus:border-brand focus:outline-none focus:ring-4 focus:ring-brand/15;
+  }
+}
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } * { transition: none !important; } }

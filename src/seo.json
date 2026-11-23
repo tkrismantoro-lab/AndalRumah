@@ -1,0 +1,65 @@
+{
+  "siteUrl": "https://andalrumah.com",
+  "siteName": "AndalRumah",
+  "pages": {
+    "/": {
+      "title": "AndalRumah – Cari ART & Lowongan Kerja ART Jabodetabek",
+      "description": "Cari ART atau pembantu rumah tangga untuk keluarga Anda, atau daftar kerja sebagai ART tanpa biaya. Isi formulir, admin AndalRumah bantu lewat WhatsApp.",
+      "h1": "Temukan ART atau Pekerjaan dengan Mudah"
+    },
+    "/cari-art": {
+      "title": "Cari ART & Pembantu Rumah Tangga | AndalRumah",
+      "description": "Butuh ART menginap atau pulang pergi? Isi formulir, admin AndalRumah carikan kandidat yang sudah diperiksa. Biaya admin terjangkau, garansi 3 bulan.",
+      "h1": "Formulir Kebutuhan ART"
+    },
+    "/cari-pekerjaan": {
+      "title": "Lowongan Kerja ART – Daftar Gratis | AndalRumah",
+      "description": "Cari kerja sebagai ART, pengasuh anak, atau pendamping lansia? Daftar gratis tanpa biaya apa pun. Gaji diterima langsung dari majikan.",
+      "h1": "Formulir Pencari Kerja ART"
+    },
+    "/tentang": {
+      "title": "Tentang AndalRumah – Media Pencari Kerja ART",
+      "description": "AndalRumah adalah media pencari kerja ART yang mempertemukan keluarga dengan asisten rumah tangga melalui admin di WhatsApp.",
+      "h1": "Tentang Kami"
+    },
+    "/privasi": {
+      "title": "Kebijakan Privasi | AndalRumah",
+      "description": "Penjelasan data apa yang Anda isi di formulir AndalRumah, bagaimana data dikirim lewat WhatsApp, dan cara meminta penghapusan.",
+      "h1": "Kebijakan Privasi"
+    }
+  },
+  "faq": [
+    {
+      "q": "Apa itu AndalRumah?",
+      "a": "AndalRumah adalah media pencari kerja ART (asisten rumah tangga). Kami membantu mempertemukan keluarga yang membutuhkan ART dengan orang yang mencari pekerjaan sebagai ART, melalui admin AndalRumah di WhatsApp."
+    },
+    {
+      "q": "Berapa biaya mencari ART di AndalRumah?",
+      "a": "Biaya admin untuk majikan Rp2.000.000 per penempatan. Selama promo untuk 50 majikan pertama, biayanya Rp1.500.000. Biaya dibayar sekali, setelah ART mulai bekerja."
+    },
+    {
+      "q": "Apakah pencari kerja ART dipungut biaya?",
+      "a": "Tidak. Pencari kerja tidak dipungut biaya apa pun, baik saat mendaftar maupun setelah mendapat pekerjaan."
+    },
+    {
+      "q": "Bagaimana gaji ART dibayarkan?",
+      "a": "Gaji dibayarkan langsung oleh majikan kepada ART, tidak melalui AndalRumah."
+    },
+    {
+      "q": "Bagaimana AndalRumah memeriksa calon ART?",
+      "a": "KTP calon ART dicocokkan dengan wajahnya saat mendaftar, SKCK yang masih berlaku ditunjukkan sebelum mulai bekerja, dan bila pernah bekerja, admin menghubungi majikan sebelumnya."
+    },
+    {
+      "q": "Bagaimana kalau ART tidak cocok?",
+      "a": "Dalam 3 bulan pertama, AndalRumah mencarikan pengganti sampai 2 kali tanpa biaya admin baru."
+    },
+    {
+      "q": "Bagaimana cara mendaftar?",
+      "a": "Pilih formulir majikan atau formulir pencari kerja, isi datanya, lalu kirim lewat WhatsApp. Setelah itu admin AndalRumah menghubungi Anda untuk proses pencocokan."
+    },
+    {
+      "q": "Jenis pekerjaan ART apa saja yang tersedia?",
+      "a": "ART menginap dan ART pulang pergi, dengan tugas seperti membersihkan rumah, memasak, mengurus anak, mengurus lansia, serta mencuci dan menyetrika."
+    }
+  ]
+}
