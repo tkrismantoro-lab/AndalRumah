@@ -18,9 +18,9 @@ npm run dev
 ## Build
 
 - Domain sendiri: `npm run build` lalu unggah folder `dist`.
-- GitHub Pages di sub-folder `/andalrumah/`:
+- GitHub Pages di sub-folder `/AndalRumah/`:
 
 ```bash
-BASE_PATH=/andalrumah/ VITE_SITE_URL=https://tkrismantoro-lab.github.io/andalrumah npx vite build --outDir dist-gh
-OUT_DIR=dist-gh VITE_SITE_URL=https://tkrismantoro-lab.github.io/andalrumah node scripts/postbuild.mjs
+BASE_PATH=/AndalRumah/ VITE_SITE_URL=https://tkrismantoro-lab.github.io/AndalRumah npx vite build --outDir dist-gh
+OUT_DIR=dist-gh VITE_SITE_URL=https://tkrismantoro-lab.github.io/AndalRumah node scripts/postbuild.mjs
 ```
