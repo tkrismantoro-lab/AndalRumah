@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tkrismantoro-lab.github.io/andalrumah/sitemap.xml
+Sitemap: https://tkrismantoro-lab.github.io/AndalRumah/sitemap.xml
